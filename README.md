@@ -17,4 +17,6 @@
   * Spring project folder: 5-jpa-many-to-many
   * SQL script folder: 5-many-to-many
 
-**2.** MAKE SURE TO CHANGE the username and password in the "application.properties" file to the username/password you used to log into your MySQL DB instance.
+**2.** VERY IMPORTANT: In any of the Spring projects, MAKE SURE TO CHANGE the username and password in the "application.properties" files to the username/password you used to log into your MySQL DB instance. You might also remember to update the database URL accordingly.
+
+If you encounter any issues or need help, don't hesistate to create an issue or contact me.
