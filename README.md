@@ -19,4 +19,4 @@
 
 **2.** VERY IMPORTANT: In any of the Spring projects, MAKE SURE TO CHANGE the username and password in the "application.properties" files to the username/password you used to log into your MySQL DB instance. You might also remember to update the database URL accordingly.
 
-If you encounter any issues or need help, don't hesistate to create an issue or contact me.
+If you encounter any issues or need help, don't hesitate to create an issue or contact me.
